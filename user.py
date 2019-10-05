@@ -27,10 +27,26 @@ class User:
         '''
         User.user_details.append(self) 
         User.user_details.append(self)
-        
+
     # deleting the user account
     def delete_account(self):
         '''
         delete account method to remove user account
         '''
         User.user_details.remove(self)     
+    
+    @classmethod
+    def find_by_fname(cls, first_name):
+        """
+        find user by their first name
+        Args:
+            first_name: first name of the user to search for
+        returns:
+            user searched for
+        """
+        for user in cls.user_details:
+            if user.first_name == first_name:
+                return user
+
+    # confirm user exist
+    @classmethod

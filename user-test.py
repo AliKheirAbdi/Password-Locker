@@ -73,5 +73,9 @@ self.new_user.delete_account()
         user_exists = User.user_exist("Ali")
 
         self.assertTrue(user_exists)
+
+            found_user = User.find_by_fname("Ali")
+
+        self.assertEqual(found_user.first_name,test_user.first_name)
 if __name__ == '__main__':
     unittest.main()

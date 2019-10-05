@@ -57,7 +57,21 @@ self.new_user.save_user()
         self.new_user.delete_account()
         self.assertEqual(len(User.user_details),0)
 
+self.new_user.delete_account()
+        self.assertEqual(len(User.user_details),0)
 
 
+    # test checking if user exists
+    def test_user_exists(self):
+        '''
+        checks if user exists by password. returns a boolean if user doesn't exist
+        '''
+        self.new_user.save_user()
+        test_user = User("Kheir", "Testsecondname", "Kh@1234")
+        test_user.save_user()
+
+        user_exists = User.user_exist("Ali")
+
+        self.assertTrue(user_exists)
 if __name__ == '__main__':
-    unittest.main(
+    unittest.main()

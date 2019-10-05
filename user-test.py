@@ -46,8 +46,18 @@ self.new_user.save_user()
         '''
         User.user_details.remove(self)
 
-if __name__ == '__main__':
-    unittest.main()
+    test_delete_user(self):
+        '''
+        test checks whether a user can delete their account
+        '''
+        self.new_user.save_user()
+        test_user = User("Ali", "Kheir", "Kh@1234")
+        test_user.save_user
+
+        self.new_user.delete_account()
+        self.assertEqual(len(User.user_details),0)
+
+
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main(

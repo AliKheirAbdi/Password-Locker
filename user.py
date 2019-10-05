@@ -22,3 +22,4 @@ class User:
         """
         User.user_details.append(self)
         
+        

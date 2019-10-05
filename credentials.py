@@ -1,3 +1,4 @@
+
 class Credentials:
     '''
     class that generates instances of new credentials

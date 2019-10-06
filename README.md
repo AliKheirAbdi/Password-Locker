@@ -1,7 +1,7 @@
 # Password-Vault :closed_lock_with_key:
 
 
-## Project pre-discription
+## Project Overview
 It becomes really hard to remember all those passwords and create new ones for all apps we use.
 This app helps a user save and generate passwords.
 # Author

@@ -1,5 +1,5 @@
-# Project
-Password Vault
+# Password-Vault :closed_lock_with_key:
+
 
 ## Project pre-discription
 It becomes really hard to remember all those passwords and create new ones for all apps we use.

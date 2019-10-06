@@ -1,5 +1,5 @@
 # Project
-Password Locker
+Password Vault
 
 ## Project pre-discription
 It becomes really hard to remember all those passwords and create new ones for all apps we use.

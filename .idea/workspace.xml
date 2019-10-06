@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4591edc-f0d6-481b-8288-d801f5ae1dce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/user-test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
-    </list>
+    <list default="true" id="e4591edc-f0d6-481b-8288-d801f5ae1dce" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,15 +240,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="234" y="0" width="851" height="821" extended-state="0" />
-    <editor active="true" />
+    <frame x="800" y="0" width="800" height="846" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23309179" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24839126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32904148" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40772533" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5414365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

@@ -15,6 +15,8 @@ This project lets a user save login credentials for any application.
 Once they create a username and password they can add an app and the program saves the credentials.
 One has the choice to either input their own password or opt for a system generated one.
 A user can also delete an existing entry.
+## Screenshot
+![image](https://github.com/AliKheirAbdi/Password-Locker/blob/master/DeepinScreenshot_select-area_20191006112629.png)
 # User stories
 The user would like to.... :
 
